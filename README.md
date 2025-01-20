@@ -46,3 +46,22 @@ This system aims to assist the Indian Government and citizens in reducing crime 
 
 This project is open-source and free to use for educational and non-commercial purposes.
 
+## Screenshots
+
+### Welcome Page
+![Home Page](screenshots/home.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### User Dashboard
+![User Dashboard](screenshots/user-dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Lodge Complaint Page
+![Lodge Complaint Page](screenshots/lodge-complaint.png)
+
+### Manage Complaints Page
+![Manage Complaints Page](screenshots/manage-complaint.png)
