@@ -13,7 +13,6 @@ This project is my **4th semester BCA project**, developed as part of the curric
 - Users can upload media files such as videos, photos, and audio related to incidents like robbery, murder, rape, consumer cheating, etc.
 - Ensures user anonymity to maintain privacy and encourage reporting.
 - Helps the Indian Government and citizens by providing evidence to punish accused individuals and reduce crime rates.
-- Automatically forwards uploaded media to the Central Government, Central Media, State Government, and State Media via email.
 
 ## How to Run the System
 
